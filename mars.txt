@@ -1,3 +1,7 @@
 Mars is cold and dry and all the things.
 The two moons may be a problem for Wolfman.
+<<<<<<< HEAD
 But the Mummy will appreciate the low humidity.
+=======
+Poop poop poop poop
+>>>>>>> 673057c2ae153c5e678cfb3c10f79a5cac9ee049
